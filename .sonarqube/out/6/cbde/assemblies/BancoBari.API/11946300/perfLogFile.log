@@ -1,0 +1,4 @@
+File name	Line	Function	Duration[ms]	Explored nodes
+C:\Users\poce\Desktop\Bari\Bari\BancoBari\BancoBari\Controllers\MessageController.cs	17	_BancoBari.API.Controllers.MessageController.getMessages$$	0	2
+C:\Users\poce\Desktop\Bari\Bari\BancoBari\BancoBari\Program.cs	7	_BancoBari.Program.Main$string$$$	0	3
+C:\Users\poce\Desktop\Bari\Bari\BancoBari\BancoBari\Startup.cs	24	_BancoBari.Startup.ConfigureServices$Microsoft.Extensions.DependencyInjection.IServiceCollection$	0	3

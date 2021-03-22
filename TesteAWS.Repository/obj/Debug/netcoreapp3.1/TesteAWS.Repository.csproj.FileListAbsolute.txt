@@ -1,0 +1,9 @@
+C:\Users\poce\OneDrive - GFT Technologies SE\Documents\Pessoal\Testes\ProjetoAWS\TesteAWS.Repository\bin\Debug\netcoreapp3.1\TesteAWS.Repository.deps.json
+C:\Users\poce\OneDrive - GFT Technologies SE\Documents\Pessoal\Testes\ProjetoAWS\TesteAWS.Repository\bin\Debug\netcoreapp3.1\TesteAWS.Repository.dll
+C:\Users\poce\OneDrive - GFT Technologies SE\Documents\Pessoal\Testes\ProjetoAWS\TesteAWS.Repository\bin\Debug\netcoreapp3.1\TesteAWS.Repository.pdb
+C:\Users\poce\OneDrive - GFT Technologies SE\Documents\Pessoal\Testes\ProjetoAWS\TesteAWS.Repository\obj\Debug\netcoreapp3.1\TesteAWS.Repository.csprojAssemblyReference.cache
+C:\Users\poce\OneDrive - GFT Technologies SE\Documents\Pessoal\Testes\ProjetoAWS\TesteAWS.Repository\obj\Debug\netcoreapp3.1\TesteAWS.Repository.AssemblyInfoInputs.cache
+C:\Users\poce\OneDrive - GFT Technologies SE\Documents\Pessoal\Testes\ProjetoAWS\TesteAWS.Repository\obj\Debug\netcoreapp3.1\TesteAWS.Repository.AssemblyInfo.cs
+C:\Users\poce\OneDrive - GFT Technologies SE\Documents\Pessoal\Testes\ProjetoAWS\TesteAWS.Repository\obj\Debug\netcoreapp3.1\TesteAWS.Repository.csproj.CoreCompileInputs.cache
+C:\Users\poce\OneDrive - GFT Technologies SE\Documents\Pessoal\Testes\ProjetoAWS\TesteAWS.Repository\obj\Debug\netcoreapp3.1\TesteAWS.Repository.dll
+C:\Users\poce\OneDrive - GFT Technologies SE\Documents\Pessoal\Testes\ProjetoAWS\TesteAWS.Repository\obj\Debug\netcoreapp3.1\TesteAWS.Repository.pdb

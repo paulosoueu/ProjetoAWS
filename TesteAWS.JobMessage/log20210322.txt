@@ -1,0 +1,48 @@
+2021-03-22 17:24:34.530 -03:00 [DBG] Hosting starting
+2021-03-22 17:24:35.610 -03:00 [INF] Iniciando a aplicação
+2021-03-22 17:24:37.354 -03:00 [INF] Gravando a mensagem no SQS.
+2021-03-22 17:24:37.735 -03:00 [ERR] Erro: Invalid URI: The URI is empty.
+2021-03-22 17:24:37.996 -03:00 [DBG] Failed to locate the development https certificate at 'null'.
+2021-03-22 17:24:38.795 -03:00 [DBG] Using development certificate: CN=localhost (Thumbprint: F1E918C3C4EDDED8EFB7F0A03356C83A4E801386)
+2021-03-22 17:24:38.912 -03:00 [DBG] Hosting started
+2021-03-22 17:24:38.913 -03:00 [DBG] Loaded hosting startup assembly BancoBari.JobMessage
+2021-03-22 17:24:42.759 -03:00 [INF] Iniciando a aplicação
+2021-03-22 17:24:42.759 -03:00 [INF] Gravando a mensagem no SQS.
+2021-03-22 17:24:42.925 -03:00 [ERR] Erro: Invalid URI: The URI is empty.
+2021-03-22 17:24:47.932 -03:00 [INF] Iniciando a aplicação
+2021-03-22 17:24:47.933 -03:00 [INF] Gravando a mensagem no SQS.
+2021-03-22 17:24:48.041 -03:00 [ERR] Erro: Invalid URI: The URI is empty.
+2021-03-22 17:24:53.042 -03:00 [INF] Iniciando a aplicação
+2021-03-22 17:24:53.043 -03:00 [INF] Gravando a mensagem no SQS.
+2021-03-22 17:24:53.153 -03:00 [ERR] Erro: Invalid URI: The URI is empty.
+2021-03-22 17:24:58.166 -03:00 [INF] Iniciando a aplicação
+2021-03-22 17:24:58.166 -03:00 [INF] Gravando a mensagem no SQS.
+2021-03-22 17:24:58.300 -03:00 [ERR] Erro: Invalid URI: The URI is empty.
+2021-03-22 17:25:03.309 -03:00 [INF] Iniciando a aplicação
+2021-03-22 17:25:03.309 -03:00 [INF] Gravando a mensagem no SQS.
+2021-03-22 17:25:03.418 -03:00 [ERR] Erro: Invalid URI: The URI is empty.
+2021-03-22 17:25:08.417 -03:00 [INF] Iniciando a aplicação
+2021-03-22 17:25:08.418 -03:00 [INF] Gravando a mensagem no SQS.
+2021-03-22 17:25:08.527 -03:00 [ERR] Erro: Invalid URI: The URI is empty.
+2021-03-22 17:25:13.544 -03:00 [INF] Iniciando a aplicação
+2021-03-22 17:25:13.545 -03:00 [INF] Gravando a mensagem no SQS.
+2021-03-22 17:25:13.661 -03:00 [ERR] Erro: Invalid URI: The URI is empty.
+2021-03-22 17:25:18.726 -03:00 [INF] Iniciando a aplicação
+2021-03-22 17:25:18.727 -03:00 [INF] Gravando a mensagem no SQS.
+2021-03-22 17:25:19.207 -03:00 [ERR] Erro: Invalid URI: The URI is empty.
+2021-03-22 17:25:24.233 -03:00 [INF] Iniciando a aplicação
+2021-03-22 17:25:24.238 -03:00 [INF] Gravando a mensagem no SQS.
+2021-03-22 17:25:24.441 -03:00 [ERR] Erro: Invalid URI: The URI is empty.
+2021-03-22 17:25:29.452 -03:00 [INF] Iniciando a aplicação
+2021-03-22 17:25:29.452 -03:00 [INF] Gravando a mensagem no SQS.
+2021-03-22 17:25:29.705 -03:00 [ERR] Erro: Invalid URI: The URI is empty.
+2021-03-22 17:25:34.722 -03:00 [INF] Iniciando a aplicação
+2021-03-22 17:25:34.722 -03:00 [INF] Gravando a mensagem no SQS.
+2021-03-22 17:25:35.057 -03:00 [ERR] Erro: Invalid URI: The URI is empty.
+2021-03-22 17:25:40.057 -03:00 [INF] Iniciando a aplicação
+2021-03-22 17:25:40.057 -03:00 [INF] Gravando a mensagem no SQS.
+2021-03-22 17:25:40.208 -03:00 [ERR] Erro: Invalid URI: The URI is empty.
+2021-03-22 17:25:45.222 -03:00 [INF] Iniciando a aplicação
+2021-03-22 17:25:45.223 -03:00 [INF] Gravando a mensagem no SQS.
+2021-03-22 17:25:45.337 -03:00 [ERR] Erro: Invalid URI: The URI is empty.
+2021-03-22 17:25:49.850 -03:00 [DBG] Hosting shutdown

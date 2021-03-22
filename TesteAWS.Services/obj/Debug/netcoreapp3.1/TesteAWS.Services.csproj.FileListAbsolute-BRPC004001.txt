@@ -1,0 +1,12 @@
+C:\Users\poce\OneDrive - GFT Technologies SE\Documents\Pessoal\Testes\ProjetoAWS\TesteAWS.Services\bin\Debug\netcoreapp3.1\TesteAWS.Services.deps.json
+C:\Users\poce\OneDrive - GFT Technologies SE\Documents\Pessoal\Testes\ProjetoAWS\TesteAWS.Services\bin\Debug\netcoreapp3.1\TesteAWS.Services.dll
+C:\Users\poce\OneDrive - GFT Technologies SE\Documents\Pessoal\Testes\ProjetoAWS\TesteAWS.Services\bin\Debug\netcoreapp3.1\TesteAWS.Services.pdb
+C:\Users\poce\OneDrive - GFT Technologies SE\Documents\Pessoal\Testes\ProjetoAWS\TesteAWS.Services\bin\Debug\netcoreapp3.1\TesteAWS.Repository.dll
+C:\Users\poce\OneDrive - GFT Technologies SE\Documents\Pessoal\Testes\ProjetoAWS\TesteAWS.Services\bin\Debug\netcoreapp3.1\TesteAWS.Repository.pdb
+C:\Users\poce\OneDrive - GFT Technologies SE\Documents\Pessoal\Testes\ProjetoAWS\TesteAWS.Services\obj\Debug\netcoreapp3.1\TesteAWS.Services.csprojAssemblyReference.cache
+C:\Users\poce\OneDrive - GFT Technologies SE\Documents\Pessoal\Testes\ProjetoAWS\TesteAWS.Services\obj\Debug\netcoreapp3.1\TesteAWS.Services.AssemblyInfoInputs.cache
+C:\Users\poce\OneDrive - GFT Technologies SE\Documents\Pessoal\Testes\ProjetoAWS\TesteAWS.Services\obj\Debug\netcoreapp3.1\TesteAWS.Services.AssemblyInfo.cs
+C:\Users\poce\OneDrive - GFT Technologies SE\Documents\Pessoal\Testes\ProjetoAWS\TesteAWS.Services\obj\Debug\netcoreapp3.1\TesteAWS.Services.csproj.CoreCompileInputs.cache
+C:\Users\poce\OneDrive - GFT Technologies SE\Documents\Pessoal\Testes\ProjetoAWS\TesteAWS.Services\obj\Debug\netcoreapp3.1\TesteAWS.Services.csproj.CopyComplete
+C:\Users\poce\OneDrive - GFT Technologies SE\Documents\Pessoal\Testes\ProjetoAWS\TesteAWS.Services\obj\Debug\netcoreapp3.1\TesteAWS.Services.dll
+C:\Users\poce\OneDrive - GFT Technologies SE\Documents\Pessoal\Testes\ProjetoAWS\TesteAWS.Services\obj\Debug\netcoreapp3.1\TesteAWS.Services.pdb

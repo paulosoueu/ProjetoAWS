@@ -1,0 +1,32 @@
+C:\Users\poce\Desktop\Bari\Bari\BancoBari\BancoBari.Repository\AWSRepository\AwsContext.cs
+SQSClient 35
+SQSClient -1
+
+C:\Users\poce\Desktop\Bari\Bari\BancoBari\BancoBari.Repository\AWSRepository\AWSRepository.cs
+GetSqs 7
+GetSqs -1
+SetSQS 4
+SetSQS -1
+
+C:\Users\poce\Desktop\Bari\Bari\BancoBari\BancoBari.Repository\AWSRepository\Interface\IAwsRepository.cs
+GetSqs 3
+GetSqs -1
+SetSQS 4
+SetSQS -1
+
+C:\Users\poce\Desktop\Bari\Bari\BancoBari\BancoBari.Repository\Repository\Interfaces\IMessageRepository.cs
+SaveMessage 3
+SaveMessage -1
+GetMessage 4
+GetMessage -1
+
+C:\Users\poce\Desktop\Bari\Bari\BancoBari\BancoBari.Repository\Repository\MessageRepository.cs
+SaveMessage 4
+SaveMessage -1
+GetMessage 4
+GetMessage -1
+
+C:\Users\poce\AppData\Local\Temp\.NETCoreApp,Version=v3.1.AssemblyAttributes.cs
+
+C:\Users\poce\Desktop\Bari\Bari\BancoBari\BancoBari.Repository\obj\Debug\netcoreapp3.1\BancoBari.Repository.AssemblyInfo.cs
+

@@ -1,0 +1,11 @@
+C:\Users\poce\Desktop\Bari\Bari\BancoBari\BancoBari.Services\obj\Debug\netcoreapp3.1\BancoBari.Services.csprojAssemblyReference.cache
+C:\Users\poce\Desktop\Bari\Bari\BancoBari\BancoBari.Services\obj\Debug\netcoreapp3.1\BancoBari.Services.AssemblyInfoInputs.cache
+C:\Users\poce\Desktop\Bari\Bari\BancoBari\BancoBari.Services\obj\Debug\netcoreapp3.1\BancoBari.Services.AssemblyInfo.cs
+C:\Users\poce\Desktop\Bari\Bari\BancoBari\BancoBari.Services\bin\Debug\netcoreapp3.1\BancoBari.Services.deps.json
+C:\Users\poce\Desktop\Bari\Bari\BancoBari\BancoBari.Services\bin\Debug\netcoreapp3.1\BancoBari.Services.dll
+C:\Users\poce\Desktop\Bari\Bari\BancoBari\BancoBari.Services\bin\Debug\netcoreapp3.1\BancoBari.Services.pdb
+C:\Users\poce\Desktop\Bari\Bari\BancoBari\BancoBari.Services\bin\Debug\netcoreapp3.1\BancoBari.Repository.dll
+C:\Users\poce\Desktop\Bari\Bari\BancoBari\BancoBari.Services\bin\Debug\netcoreapp3.1\BancoBari.Repository.pdb
+C:\Users\poce\Desktop\Bari\Bari\BancoBari\BancoBari.Services\obj\Debug\netcoreapp3.1\BancoBari.Services.csproj.CopyComplete
+C:\Users\poce\Desktop\Bari\Bari\BancoBari\BancoBari.Services\obj\Debug\netcoreapp3.1\BancoBari.Services.dll
+C:\Users\poce\Desktop\Bari\Bari\BancoBari\BancoBari.Services\obj\Debug\netcoreapp3.1\BancoBari.Services.pdb

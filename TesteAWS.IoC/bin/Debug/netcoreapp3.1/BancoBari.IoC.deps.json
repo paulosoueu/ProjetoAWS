@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "BancoBari.IoC/1.0.0": {
+        "runtime": {
+          "BancoBari.IoC.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BancoBari.IoC/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

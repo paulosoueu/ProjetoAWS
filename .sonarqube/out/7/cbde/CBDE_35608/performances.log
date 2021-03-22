@@ -1,0 +1,20 @@
+C:\Users\poce\Desktop\Bari\Bari\BancoBari\BancoBari.JobMessage\Program.cs
+Main 4
+Main 0
+CreateWebHostBuilder 4
+CreateWebHostBuilder 0
+
+C:\Users\poce\Desktop\Bari\Bari\BancoBari\BancoBari.JobMessage\Startup.cs
+ConfigureServices 4
+ConfigureServices 0
+Configure 4
+Configure 15
+
+C:\Users\poce\Desktop\Bari\Bari\BancoBari\BancoBari.JobMessage\Worker.cs
+ExecuteAsync 14
+ExecuteAsync 0
+
+C:\Users\poce\AppData\Local\Temp\.NETCoreApp,Version=v3.1.AssemblyAttributes.cs
+
+C:\Users\poce\Desktop\Bari\Bari\BancoBari\BancoBari.JobMessage\obj\Debug\netcoreapp3.1\BancoBari.JobMessage.AssemblyInfo.cs
+

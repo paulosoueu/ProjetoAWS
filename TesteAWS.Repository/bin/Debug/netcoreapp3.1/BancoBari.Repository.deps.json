@@ -1,0 +1,112 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "BancoBari.Repository/1.0.0": {
+        "dependencies": {
+          "AWSSDK.SQS": "3.5.0.34",
+          "AWSSDK.SimpleNotificationService": "3.5.1.3",
+          "Microsoft.Extensions.Configuration.Abstractions": "3.1.9"
+        },
+        "runtime": {
+          "BancoBari.Repository.dll": {}
+        }
+      },
+      "AWSSDK.Core/3.5.1.32": {
+        "runtime": {
+          "lib/netcoreapp3.1/AWSSDK.Core.dll": {
+            "assemblyVersion": "3.3.0.0",
+            "fileVersion": "3.5.1.32"
+          }
+        }
+      },
+      "AWSSDK.SimpleNotificationService/3.5.1.3": {
+        "dependencies": {
+          "AWSSDK.Core": "3.5.1.32"
+        },
+        "runtime": {
+          "lib/netcoreapp3.1/AWSSDK.SimpleNotificationService.dll": {
+            "assemblyVersion": "3.3.0.0",
+            "fileVersion": "3.5.1.3"
+          }
+        }
+      },
+      "AWSSDK.SQS/3.5.0.34": {
+        "dependencies": {
+          "AWSSDK.Core": "3.5.1.32"
+        },
+        "runtime": {
+          "lib/netcoreapp3.1/AWSSDK.SQS.dll": {
+            "assemblyVersion": "3.3.0.0",
+            "fileVersion": "3.5.0.34"
+          }
+        }
+      },
+      "Microsoft.Extensions.Configuration.Abstractions/3.1.9": {
+        "dependencies": {
+          "Microsoft.Extensions.Primitives": "3.1.9"
+        },
+        "runtime": {
+          "lib/netcoreapp3.1/Microsoft.Extensions.Configuration.Abstractions.dll": {
+            "assemblyVersion": "3.1.9.0",
+            "fileVersion": "3.100.920.47302"
+          }
+        }
+      },
+      "Microsoft.Extensions.Primitives/3.1.9": {
+        "runtime": {
+          "lib/netcoreapp3.1/Microsoft.Extensions.Primitives.dll": {
+            "assemblyVersion": "3.1.9.0",
+            "fileVersion": "3.100.920.47302"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BancoBari.Repository/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AWSSDK.Core/3.5.1.32": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-rNxli5HjbQdFmibqHQhXgOtIS35A8Gt6k8XWyJAse/QoChfbsTqXjzKnws24DMUVK3dzf3knpD1mgpXS9XJ1zA==",
+      "path": "awssdk.core/3.5.1.32",
+      "hashPath": "awssdk.core.3.5.1.32.nupkg.sha512"
+    },
+    "AWSSDK.SimpleNotificationService/3.5.1.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-El27i7FeFpvsnjqM+meghAv3F/fuAY6qkW8leQUnlMZnsSTrGoAhTvK4WmRpqDwJoYAlyOaRvrycEdub4sbx+Q==",
+      "path": "awssdk.simplenotificationservice/3.5.1.3",
+      "hashPath": "awssdk.simplenotificationservice.3.5.1.3.nupkg.sha512"
+    },
+    "AWSSDK.SQS/3.5.0.34": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-THinH7q0IywOwb7tfL6Z/7g+NA8mVrpPg1TFQftVyNT/NEQcNFHtWTpBOybmiLZBNPnaLRB9KH30sdpLpGxCDA==",
+      "path": "awssdk.sqs/3.5.0.34",
+      "hashPath": "awssdk.sqs.3.5.0.34.nupkg.sha512"
+    },
+    "Microsoft.Extensions.Configuration.Abstractions/3.1.9": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-vOJxPKczaHpXeZFrxARxYwsEulhEouXc5aZGgMdkhV/iEXX9/pfjqKk76rTG+4CsJjHV+G/4eMhvOIaQMHENNA==",
+      "path": "microsoft.extensions.configuration.abstractions/3.1.9",
+      "hashPath": "microsoft.extensions.configuration.abstractions.3.1.9.nupkg.sha512"
+    },
+    "Microsoft.Extensions.Primitives/3.1.9": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-IrHecH0eGG7/XoeEtv++oLg/sJHRNyeCqlA9RhAo6ig4GpOTjtDr32sBMYuuLtUq8ALahneWkrOzoBAwJ4L4iA==",
+      "path": "microsoft.extensions.primitives/3.1.9",
+      "hashPath": "microsoft.extensions.primitives.3.1.9.nupkg.sha512"
+    }
+  }
+}

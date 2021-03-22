@@ -1,0 +1,29 @@
+Product projects
+---------------------------------------
+C:\Users\poce\Desktop\Bari\Bari\BancoBari\BancoBari.Repository\BancoBari.Repository.csproj
+C:\Users\poce\Desktop\Bari\Bari\BancoBari\BancoBari.Services\BancoBari.Services.csproj
+C:\Users\poce\Desktop\Bari\Bari\BancoBari\BancoBari.IoC\BancoBari.CrossCutting.csproj
+C:\Users\poce\Desktop\Bari\Bari\BancoBari\BancoBari\BancoBari.API.csproj
+C:\Users\poce\Desktop\Bari\Bari\BancoBari\BancoBari.JobMessage\BancoBari.JobMessage.csproj
+
+
+Test projects
+---------------------------------------
+C:\Users\poce\Desktop\Bari\Bari\BancoBari\BancoBari.Tests\BancoBari.Tests.csproj
+
+
+Invalid projects
+---------------------------------------
+{none}
+
+
+Skipped projects
+---------------------------------------
+{none}
+
+
+Excluded projects
+---------------------------------------
+{none}
+
+

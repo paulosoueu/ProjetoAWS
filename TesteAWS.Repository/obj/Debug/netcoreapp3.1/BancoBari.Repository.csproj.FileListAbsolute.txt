@@ -1,0 +1,8 @@
+C:\Users\poce\Desktop\Bari\Bari\BancoBari\BancoBari.Repository\obj\Debug\netcoreapp3.1\BancoBari.Repository.AssemblyInfoInputs.cache
+C:\Users\poce\Desktop\Bari\Bari\BancoBari\BancoBari.Repository\obj\Debug\netcoreapp3.1\BancoBari.Repository.AssemblyInfo.cs
+C:\Users\poce\Desktop\Bari\Bari\BancoBari\BancoBari.Repository\bin\Debug\netcoreapp3.1\BancoBari.Repository.deps.json
+C:\Users\poce\Desktop\Bari\Bari\BancoBari\BancoBari.Repository\bin\Debug\netcoreapp3.1\BancoBari.Repository.dll
+C:\Users\poce\Desktop\Bari\Bari\BancoBari\BancoBari.Repository\bin\Debug\netcoreapp3.1\BancoBari.Repository.pdb
+C:\Users\poce\Desktop\Bari\Bari\BancoBari\BancoBari.Repository\obj\Debug\netcoreapp3.1\BancoBari.Repository.dll
+C:\Users\poce\Desktop\Bari\Bari\BancoBari\BancoBari.Repository\obj\Debug\netcoreapp3.1\BancoBari.Repository.pdb
+C:\Users\poce\Desktop\Bari\Bari\BancoBari\BancoBari.Repository\obj\Debug\netcoreapp3.1\BancoBari.Repository.csprojAssemblyReference.cache

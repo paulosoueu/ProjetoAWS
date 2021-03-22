@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "K0x9to6xtGuK3EAJRBMoMkJ2J1ntB2Nk4npNKei+OIVCNd89JWYyXKfjBRkOsusn0wvfm0q+ZF33BzxIez23QA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\poce\\OneDrive - GFT Technologies SE\\Documents\\Pessoal\\Testes\\ProjetoAWS\\TesteAWS.Repository\\TesteAWS.Repository.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\poce\\.nuget\\packages\\awssdk.core\\3.5.1.32\\awssdk.core.3.5.1.32.nupkg.sha512",
+    "C:\\Users\\poce\\.nuget\\packages\\awssdk.simplenotificationservice\\3.5.1.3\\awssdk.simplenotificationservice.3.5.1.3.nupkg.sha512",
+    "C:\\Users\\poce\\.nuget\\packages\\awssdk.sqs\\3.5.0.34\\awssdk.sqs.3.5.0.34.nupkg.sha512",
+    "C:\\Users\\poce\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\3.1.9\\microsoft.extensions.configuration.abstractions.3.1.9.nupkg.sha512",
+    "C:\\Users\\poce\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.9\\microsoft.extensions.primitives.3.1.9.nupkg.sha512"
+  ],
+  "logs": []
+}

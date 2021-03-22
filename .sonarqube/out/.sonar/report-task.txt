@@ -1,0 +1,6 @@
+projectKey=BancoBari
+serverUrl=http://localhost:9000
+serverVersion=8.5.1.38104
+dashboardUrl=http://localhost:9000/dashboard?id=BancoBari
+ceTaskId=AXWzzq4aYx6-ItcE6dwq
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AXWzzq4aYx6-ItcE6dwq

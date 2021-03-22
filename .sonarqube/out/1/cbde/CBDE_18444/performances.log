@@ -1,0 +1,16 @@
+C:\Users\poce\Desktop\Bari\Bari\BancoBari\BancoBari.Services\Models\MensagemModel.cs
+
+C:\Users\poce\Desktop\Bari\Bari\BancoBari\BancoBari.Services\Services\Interfaces\IMessageService.cs
+ProcessarMensagem 4
+ProcessarMensagem -1
+
+C:\Users\poce\Desktop\Bari\Bari\BancoBari\BancoBari.Services\Services\MessageService.cs
+ProcessarMensagem 4
+ProcessarMensagem -1
+GetMessageSQS 4
+GetMessageSQS -1
+
+C:\Users\poce\AppData\Local\Temp\.NETCoreApp,Version=v3.1.AssemblyAttributes.cs
+
+C:\Users\poce\Desktop\Bari\Bari\BancoBari\BancoBari.Services\obj\Debug\netcoreapp3.1\BancoBari.Services.AssemblyInfo.cs
+
